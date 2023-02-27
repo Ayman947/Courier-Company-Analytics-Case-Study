@@ -5,7 +5,7 @@
 # **Objectives**
 - Writing **SQL** queries in Python to extract the analysis data from the databases.
 - Calculating business **KPIs**: Business Overall visibility, Merchants Base Metrics and Operations Metrics.
-- Performing aquisition and conversion **cohort analysis**.
+- Performing acquisition and conversion **cohort analysis**.
 - Merchants **Segmentation**.
 
 
