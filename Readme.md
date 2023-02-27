@@ -36,7 +36,7 @@
   - modifying columns data types.
   - truncating dates by month & make them user-friendly formatted.
   - checking categorical variables consistency and uniqueness.
-  - ckecking numerical variables range validity.
+  - checking numerical variables range validity.
   - checking for nulls.
   - checking for duplicates.
   
